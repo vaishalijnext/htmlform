@@ -1,0 +1,10 @@
+body{
+	width:980px;
+	height:540px;
+	overflow:hidden;
+}
+
+.header {
+  background: none repeat scroll 0 0 hsl(43, 15%, 47%);
+  text-align: center;
+}
